@@ -1,0 +1,1 @@
+Console version of snake game. Each time you move: snake adds new head and delete the tail. If the snake encounters the mouse, it does not delete its tail
