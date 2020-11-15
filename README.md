@@ -5,5 +5,5 @@ Console version of snake game. Each time you move: snake adds new head and delet
 ![alt text](https://github.com/self-harm/SnakeGame-Console-/blob/main/SnakeGame.PNG?raw=true)
 
 <p align="center">
-  <img width="460" height="300" src="![alt text](https://github.com/self-harm/SnakeGame-Console-/blob/main/SnakeGame.PNG?raw=true)">
+  <img width="460" height="300" src="https://github.com/self-harm/SnakeGame-Console-/blob/main/SnakeGame.PNG">
 </p>
